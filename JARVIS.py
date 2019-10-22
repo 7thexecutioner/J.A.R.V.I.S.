@@ -470,7 +470,7 @@ def return_clipboard_text():
 
 
 if __name__ == "__main__":
-    #wishMe()    
+    wishMe()    
     while 1:
         query = takeCommand().lower()
         print(query)
